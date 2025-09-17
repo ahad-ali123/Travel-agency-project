@@ -1,0 +1,45 @@
+# 🌍 Wanderlust Travels — Travel Agency Landing Page  
+
+🚀 **Live Demo:** [Click Here](https://travel-agency-project-kohl.vercel.app/)  
+
+---
+
+## ✨ Overview  
+A modern and responsive **Travel Agency Landing Page** built with **HTML & CSS only** (no frameworks, no JavaScript).  
+It features a clean, professional design, mobile responsiveness, and a fresh travel vibe.  
+
+---
+
+## 🔹 Features  
+
+- 🧭 **Sticky Navbar** with smooth navigation (Home, Destinations, Packages, About, Contact)  
+- 🏔 **Hero Section** with full-screen background, overlay text, and a bold CTA button  
+- 🌴 **Destinations Section** showing popular travel spots with images & “Learn More” buttons  
+- 💼 **Packages Section** with 3-tier pricing (Basic, Standard, Premium) — Standard plan highlighted  
+- 🏢 **About Section** with agency description in a 2-column layout  
+- 📬 **Contact Section** with form (Name, Email, Message) + contact info  
+- 📎 **Footer** with social media links & copyright info  
+
+---
+
+## 🛠️ Technologies Used  
+
+- **HTML5**  
+- **CSS3 (Flexbox & Grid)**  
+- **Google Fonts (Poppins / Open Sans)**  
+- **Responsive Design with Media Queries**  
+
+---
+
+## 📸 Preview  
+
+![Travel Agency Landing Page](https://via.placeholder.com/1000x500?text=Project+Screenshot)  
+*(Replace with your actual screenshot)*  
+
+---
+
+## 📂 How to Use  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
